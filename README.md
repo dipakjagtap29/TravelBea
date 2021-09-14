@@ -2,7 +2,11 @@
 
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
-Uploading TravelBea_Screen_Recording (1).mp4…
+
+
+https://user-images.githubusercontent.com/69413168/133228571-7a98fa6d-2b09-4d1e-818e-f2b3404bb9bc.mp4
+
+
 
 ## Introduction
 Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application that you can currently find on YouTube and on the entire internet.

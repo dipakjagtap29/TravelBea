@@ -4,7 +4,6 @@
 
 
 
-https://user-images.githubusercontent.com/69413168/133228571-7a98fa6d-2b09-4d1e-818e-f2b3404bb9bc.mp4
 
 
 
@@ -27,6 +26,9 @@ In this video, you'll learn:
 New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
 
 Setup: run ```npm i && npm start``` to start the development server
+
+
+https://user-images.githubusercontent.com/69413168/133228571-7a98fa6d-2b09-4d1e-818e-f2b3404bb9bc.mp4
 
 
 

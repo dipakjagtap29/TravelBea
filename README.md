@@ -25,6 +25,7 @@ Searching for places, Fetching restaurants, hotels and attractions based on loca
 
 - Deployed on Heroku: https://travelbea.herokuapp.com/
 
+## Demo of TravelBea
 
 https://user-images.githubusercontent.com/69413168/133228571-7a98fa6d-2b09-4d1e-818e-f2b3404bb9bc.mp4
 

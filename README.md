@@ -19,9 +19,9 @@ Searching for places, Fetching restaurants, hotels and attractions based on loca
 
 - Technologies used: React.js, Material UI, React Hooks, API data fetching
 
-- Setup: run ```npm i && npm start``` to start the development server
-
 - Deployed on Heroku: https://travelbea.herokuapp.com/
+
+- Setup: run ```npm i && npm start``` to start the development server
 
 ## Demo of TravelBea:
 

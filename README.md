@@ -1,4 +1,4 @@
-# Travel Advisor Website using ReactJS
+# Travel Advisor Website using ReactJS and Material UI
 
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
